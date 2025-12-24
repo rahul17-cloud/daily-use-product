@@ -17,21 +17,6 @@ This project sets up an API using FastAPI to interact with a Generative AI model
 - Interactive Chat: Users can ask questions and receive responses from Eliza.
 - Configured Model: The AI model is fine-tuned with safety settings and specific parameters to ensure quality and safety.
 
-## Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/yourproject.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd projectgenmedix/genmedix_backend
-    ```
-3. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-
 ## Credentials
 You'll need to get these api keys:
 - Gemini API key: https://aistudio.google.com
@@ -67,4 +52,4 @@ json
 
 
 ## Contact
-For any questions or feedback, please contact us at [samuelajala01@gmail.com].
+For any questions or feedback, please contact us at [rahulk162004@gmail.com].
